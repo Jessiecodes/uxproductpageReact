@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/uxproductpageReact/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/uxproductpageReact/static/js/main.b1b3f501.chunk.js",
+    "main.js.map": "/uxproductpageReact/static/js/main.b1b3f501.chunk.js.map",
+    "runtime-main.js": "/uxproductpageReact/static/js/runtime-main.b7d9b3ec.js",
+    "runtime-main.js.map": "/uxproductpageReact/static/js/runtime-main.b7d9b3ec.js.map",
+    "static/js/2.fa0f7366.chunk.js": "/uxproductpageReact/static/js/2.fa0f7366.chunk.js",
+    "static/js/2.fa0f7366.chunk.js.map": "/uxproductpageReact/static/js/2.fa0f7366.chunk.js.map",
+    "index.html": "/uxproductpageReact/index.html",
+    "precache-manifest.426a53776da76c366b7ed20a7c056bb8.js": "/uxproductpageReact/precache-manifest.426a53776da76c366b7ed20a7c056bb8.js",
+    "service-worker.js": "/uxproductpageReact/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/uxproductpageReact/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fa0f7366.chunk.js.LICENSE.txt": "/uxproductpageReact/static/js/2.fa0f7366.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7d9b3ec.js",
+    "static/js/2.fa0f7366.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b1b3f501.chunk.js"
+  ]
+}
